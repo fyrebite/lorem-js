@@ -29,6 +29,15 @@ body{
 a{
 	cursor: pointer;
 	text-decoration: none;
+	color: #40c4ff;
+	padding: 2px;
+	border-bottom: 1px solid transparent;
+	font-weight: bold;
+}
+
+a:hover{
+	color: #51d5ff;
+	border-color: #51d5ff;
 }
 
 header{
@@ -46,11 +55,8 @@ nav ul li{
 
 nav ul li a{
 	display: inline-block;
-	padding: 2px;
 	margin-left: 25px;
 	color: #eee;
-	border-bottom: 1px solid transparent;
-	font-weight: bold;
 }
 
 nav ul li a:hover{
