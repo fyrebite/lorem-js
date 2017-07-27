@@ -123,10 +123,20 @@ footer{
 	footer{
 		position: static;
 	}
+	
+	footer a{
+		word-wrap: break-word;
+	}
 }
 
 @media only screen and (max-width: 320px){
 	main{
 		margin: 5% auto;
+	}
+}
+
+@media only screen and (max-height: 400px){
+	footer{
+		position: static;
 	}
 }
