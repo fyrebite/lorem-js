@@ -1,7 +1,7 @@
 # LoremJS
 #### A simple lorem ipsum generator using JavaScript.
 
-[Demo](https://fyrebite.github.io/lorem-js/)
+[Demo](https://thomashockaday.github.io/lorem-js/)
 
 
 ## How to Use
