@@ -3,7 +3,6 @@
 
 [Demo](https://thomashockaday.github.io/lorem-js/)
 
-
 ## How to Use
 Download the __lorem.js__ file and add the script reference to the __head__ of your html file:
 ```html
